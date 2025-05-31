@@ -1,7 +1,7 @@
 ![bgimg](https://user-images.githubusercontent.com/59744630/175283826-a4183170-8326-44bb-b67c-4909fd5b1809.jpg)
 
 <h1 align="center">Hi 👋, I'm Yumna Waris</h1>
-<h3 align="center">A Passionate Software Engineer (to be) from Pakistan</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59744630/175284441-a869dd1d-bc00-4b8c-86b7-20ee6d05872d.gif">
 
 
