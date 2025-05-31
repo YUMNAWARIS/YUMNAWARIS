@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumnawaris&label=Profile%20views&color=0e75b6&style=flat" alt="yumnawaris" /> </p>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently working as Software Engineer Level II at **Payengine** https://www.linkedin.com/company/payengine/
 
 - 💬 Ask me about **Java, Python, JS, C**
 
