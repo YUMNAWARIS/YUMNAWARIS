@@ -3,8 +3,7 @@
 ## 👩‍💻 About Me
 
 🎯 I’m a passionate Software Engineer (Level II at [Payengine](https://www.linkedin.com/company/payengine/)) with a drive for building scalable systems and learning by doing.  
-🌱 Currently making a career shift into **Machine Learning & AI**, powered by a deep curiosity and long-term vision.  
-🚀 My 2025 goal: Become a **Level I Machine Learning Engineer** and build a strong portfolio of ML projects, InshaAllah.
+🌱 Currently having an interest in learning **Machine Learning & AI**, powered by a deep curiosity and long-term vision.
 
 ---
 
@@ -27,17 +26,34 @@
 ## 🌱 Currently Learning
 
 - 🤖 Machine Learning (Supervised & Unsupervised)
-- 📊 Python for Data Science & Analysis
+- 📊 Mathematics For Machine Learning
+- 🐍🧠 (Python mastery)
 - 📚 Deep learning foundations (TensorFlow, PyTorch)
 - 🎓 Applying for Master’s in Machine Learning & AI
 
 ---
 
-## 🛤️ My Journey
+## 💬 Fun Facts & Hobbies
 
-```yaml
-2023 Feb:     Joined Payengine as Intern 💼
-2023 Jul:     Promoted to Software Engineer II 🚀
-2023 Dec:     Completed Bachelor's in Computer Science 🎓
-2024 – Now:   Preparing for Masters in ML/AI 🎯
-2025 Goal:    Become ML Engineer I InshaAllah 🧠
+- 🎬 Binge-watching Netflix — guilty pleasure!  
+- 📚 Occasionally diving into books to escape the screen  
+- 📱 Scrolling endlessly (not my proudest habit, but hey, honesty!)  
+- 🐞 Debugging and building features equally excite me  
+- ♉ Proud Taurus: determined, reliable, and curious
+
+---
+
+## 📫 Contact Me
+
+📧 yumnaahwaris@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/yumna-waris-8416451a5/)
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUMNAWARIS&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUMNAWARIS&layout=compact&theme=tokyonight" />
+</p>
+
