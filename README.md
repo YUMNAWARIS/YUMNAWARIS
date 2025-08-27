@@ -22,22 +22,21 @@
 > 🧠 I focus on **conceptual clarity** and don’t tie myself to tools — tools evolve, understanding stays.
 
 ---
+## 📚 Courses & Certificates  
+- **Coursera – Machine Learning Specialization (Andrew Ng) (https://coursera.org/share/90c27d7f6103e8ea75afc55ac44cbba2)**  
+  
+---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning (Supervised & Unsupervised)
-- 📊 Mathematics For Machine Learning
-- 🐍🧠 (Python mastery)
-- 📚 Deep learning foundations (TensorFlow, PyTorch)
+- 🤖 Deep Learning (Supervised & Unsupervised)
 - 🎓 Applying for Master’s in Machine Learning & AI
 
 ---
 
 ## 💬 Fun Facts & Hobbies
 
-- 🎬 Binge-watching Netflix — guilty pleasure!  
 - 📚 Occasionally diving into books to escape the screen  
-- 📱 Scrolling endlessly (not my proudest habit, but hey, honesty!)  
 - 🐞 Debugging and building features equally excite me  
 - ♉ Proud Taurus: determined, reliable, and curious
 
