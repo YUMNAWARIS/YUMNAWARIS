@@ -26,7 +26,8 @@
 
 ## 📂 Projects & Research  
 
-- **Student Performance Predictor**  (ongoing)
+- **Student Performance Predictor**
+  (ongoing)
   An ML pipeline to predict academic performance using regression/classification.  
 
 ---
