@@ -1,13 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There,%20I'm%20Yumna%20Waris!&fontSize=30&fontAlign=center)
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
 
-🎯 I’m a passionate Software Engineer (Level II at [Payengine](https://www.linkedin.com/company/payengine/)) with a drive for building scalable systems and learning by doing.  
-🌱 Currently having an interest in learning **Machine Learning & AI**, powered by a deep curiosity and long-term vision.
+🎯 Mid-level **Software Engineer (Level II at [Payengine](https://www.linkedin.com/company/payengine/))** with 2 years of professional experience in fintech.  
+🌱 Passionate about **Machine Learning & AI**, with a strong foundation in software engineering and hands-on projects.  
+🧩 I enjoy **solving real-world problems** through data-driven systems and reproducible ML experiments.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
@@ -19,40 +20,49 @@
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
-> 🧠 I focus on **conceptual clarity** and don’t tie myself to tools — tools evolve, understanding stays.
+> 🧠 I focus on **conceptual clarity** and clean engineering — tools evolve, but understanding stays.  
 
 ---
+
+## 📂 Projects & Research  
+
+- **Student Performance Predictor**  (ongoing)
+  An ML pipeline to predict academic performance using regression/classification.  
+
+---
+
 ## 📚 Courses & Certificates  
-- **Coursera – Machine Learning Specialization (Andrew Ng) (https://coursera.org/share/90c27d7f6103e8ea75afc55ac44cbba2)**  
-  
----
 
-## 🌱 Currently Learning
-
-- 🤖 Deep Learning (Supervised & Unsupervised)
-- 🎓 Applying for Master’s in Machine Learning & AI
+- [Machine Learning Specialization – Coursera (Andrew Ng)](https://coursera.org/share/90c27d7f6103e8ea75afc55ac44cbba2)  
 
 ---
 
-## 💬 Fun Facts & Hobbies
+## 🌱 Current Focus  
 
-- 📚 Occasionally diving into books to escape the screen  
+- Deepening ML/DL expertise through **research paper replications** and mini-projects  
+- Preparing for **Master’s in AI (Erasmus Mundus – EDISS)**  
+
+---
+
+## 💬 Fun Facts  
+
 - 🐞 Debugging and building features equally excite me  
-- ♉ Proud Taurus: determined, reliable, and curious
+- ♉ Taurus: determined, reliable, and curious  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me  
 
 📧 yumnaahwaris@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yumna-waris-8416451a5/)
+💼 [LinkedIn](https://www.linkedin.com/in/yumna-waris-8416451a5/)  
+🐙 [GitHub](https://github.com/YUMNAWARIS)  
+📊 [Kaggle](https://www.kaggle.com/) *(adding work gradually)*  
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YUMNAWARIS&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUMNAWARIS&layout=compact&theme=tokyonight" />
 </p>
-
